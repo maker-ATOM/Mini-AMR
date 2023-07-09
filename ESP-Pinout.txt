@@ -1,0 +1,27 @@
+	EN	|		|	23	--- 
+ENLA	36	|		|	22	SCL
+ENLB	39	|		|	1	---	
+ENRA	34	|		|	3	---	
+ENRB	35	|		|	21	SDA	
+LED2	32	|		|	19	---
+LED3	33	|		|	18	LED6
+LED4	25	|		|	5	TOF2
+LED1	26	|		|	17	---
+LED5	27	|		|	16	MRB
+MLP	14	|		|	4	MRA
+MLA	12	|		|	2	TOF1
+MLB	13	|		|	15	MRP
+	GND	|		|	GND
+	VCC	|		|	3.3V
+
+
+			TOF2
+			LED2
+
+TOF3	LED3				LED6	TOF1
+
+
+TOF4	LED4				LED5	TOF6
+		
+			LED1
+			TOF5
